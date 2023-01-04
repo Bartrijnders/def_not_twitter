@@ -20,6 +20,8 @@
     "noEmit": true,
     "outDir": "build",
     "jsx": "react-jsx",
+    "experimentalDecorators":true,
+    "emitDecoratorMetadata":true,
     "noImplicitAny": false
   },
   "include": [
